@@ -1,5 +1,0 @@
-!git clone https://github.com/adrianmejiam/orpheusdl.git
-cd orpheusdl
-!pip install -r requirements.txt
-!python orpheus.py settings refresh
-!python orpheus.py https://play.qobuz.com/album/az66a0ndl1adb
